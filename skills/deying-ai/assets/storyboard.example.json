@@ -1,0 +1,105 @@
+{
+  "title": "AI Customer Service Boundaries",
+  "scenes": [
+    {
+      "type": "hero",
+      "start": 0,
+      "end": 137,
+      "eyebrow": "AI CUSTOMER SERVICE",
+      "title": ["Cross-border service", "can use AI support"],
+      "lead": "But keep four hard limits before handoff.",
+      "accent": "orange",
+      "callout": {
+        "tag": "BOUNDARY",
+        "title": "Define what AI must never say",
+        "detail": "Higher efficiency without boundaries creates higher risk."
+      }
+    },
+    {
+      "type": "list",
+      "start": 137,
+      "end": 670,
+      "eyebrow": "FOUR HARD LIMITS",
+      "title": ["Before AI takes over", "block these four statements"],
+      "accent": "red",
+      "items": [
+        {
+          "title": "Absolute promises",
+          "detail": "Guaranteed delivery or guaranteed refunds.",
+          "tag": "PROMISE",
+          "accent": "red",
+          "startFrame": 0
+        },
+        {
+          "title": "Professional conclusions",
+          "detail": "Legal or medical judgments.",
+          "tag": "EXPERTISE",
+          "accent": "blue",
+          "startFrame": 112
+        },
+        {
+          "title": "Unauthorized offers",
+          "detail": "Discounts, gifts, or compensation need approval.",
+          "tag": "OFFER",
+          "accent": "yellow",
+          "startFrame": 226
+        },
+        {
+          "title": "Emotional escalation",
+          "detail": "AI must not argue or try to win against a complaint.",
+          "tag": "CONFLICT",
+          "accent": "orange",
+          "startFrame": 397
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "start": 670,
+      "end": 910,
+      "eyebrow": "SAFER WORKFLOW",
+      "title": ["The safer workflow", "AI processes, people decide"],
+      "accent": "green",
+      "items": [
+        {
+          "number": "01",
+          "title": "Identify the issue",
+          "detail": "Understand the request before making a conclusion.",
+          "accent": "blue"
+        },
+        {
+          "number": "02",
+          "title": "Organize the facts",
+          "detail": "Clarify status, policy, and responsibility.",
+          "accent": "yellow"
+        },
+        {
+          "number": "03",
+          "title": "Draft a reply",
+          "detail": "Generate a reply that a human can review.",
+          "accent": "green"
+        }
+      ]
+    },
+    {
+      "type": "chips",
+      "start": 910,
+      "end": 1043,
+      "eyebrow": "HIGH-RISK HANDOFF",
+      "title": ["High-risk cases", "must go to a human"],
+      "accent": "red",
+      "lead": "AI can draft, but it must not make the final call.",
+      "items": ["Refund amount", "Account security", "Platform policy"]
+    },
+    {
+      "type": "question",
+      "start": 1043,
+      "end": 1122,
+      "eyebrow": "ONE QUESTION",
+      "title": ["Would you let AI", "reply to customers directly?"],
+      "accent": "orange",
+      "callout": "Comment: yes / no",
+      "footer": "Service can be automated. Responsibility cannot."
+    }
+  ]
+}

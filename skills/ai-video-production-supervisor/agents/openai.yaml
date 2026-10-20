@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 视频制作主管"
+  short_description: "统筹选题、脚本、分镜、制作、封面与质量验收"
+  default_prompt: "Use $ai-video-production-supervisor to plan this short-form talking-head video from topic selection through final delivery."

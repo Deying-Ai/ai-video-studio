@@ -1,0 +1,30 @@
+{
+  "source": "/absolute/path/to/final.mp4",
+  "outputDir": "/absolute/path/to/project/covers",
+  "width": 1080,
+  "height": 1440,
+  "quality": 92,
+  "brand": "得应",
+  "accentColor": "#D7FF4F",
+  "styles": [
+    "bottom",
+    "top"
+  ],
+  "covers": [
+    {
+      "title": "AI 工具越多越好？\n先看这三个坑",
+      "eyebrow": "AI 工具实测",
+      "timestamp": 2.5
+    },
+    {
+      "title": "我用 AI 省下时间后\n反而更忙了",
+      "eyebrow": "效率工作流",
+      "timestamp": 8
+    },
+    {
+      "title": "别再收藏工具清单了\n先做这一步",
+      "eyebrow": "得应的 AI 实践",
+      "timestamp": 15
+    }
+  ]
+}

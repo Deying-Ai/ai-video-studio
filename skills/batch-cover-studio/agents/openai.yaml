@@ -1,0 +1,4 @@
+interface:
+  display_name: "批量封面工作室"
+  short_description: "从真实视频画面批量生成可读、可比较的短视频封面"
+  default_prompt: "Use $batch-cover-studio to generate six cover variants from this final talking-head video."

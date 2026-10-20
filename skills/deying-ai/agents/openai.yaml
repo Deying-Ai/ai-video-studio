@@ -1,0 +1,4 @@
+interface:
+  display_name: "得应ai"
+  short_description: "Create 9:16 cross-border talking-head videos with a dynamic speaker and animated information scenes."
+  default_prompt: "Use the cross-border video workflow to turn this source material into a finished 9:16 short video."

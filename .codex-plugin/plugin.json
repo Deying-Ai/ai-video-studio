@@ -1,0 +1,41 @@
+{
+  "name": "ai-video-studio",
+  "version": "0.1.0",
+  "description": "One-stop short-form talking-head video studio for topic planning, production, QA, and batch covers.",
+  "author": {
+    "name": "得应",
+    "url": "https://github.com/Deying-Ai"
+  },
+  "homepage": "https://github.com/Deying-Ai/ai-video-studio",
+  "repository": "https://github.com/Deying-Ai/ai-video-studio",
+  "keywords": [
+    "ai-video",
+    "talking-head",
+    "douyin",
+    "video-production",
+    "covers"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "AI 视频工作室",
+    "shortDescription": "从选题、口播制作到批量封面的一站式工作流",
+    "longDescription": "面向短视频创作者的一体化视频制作插件，包含视频制作主管、得应口播视频工作流和批量封面生成。首版不捆绑数字人、TTS、声音克隆或口型同步。",
+    "developerName": "得应",
+    "category": "Productivity",
+    "capabilities": [
+      "Topic planning",
+      "Video production",
+      "Quality review",
+      "Cover generation"
+    ],
+    "websiteURL": "https://github.com/Deying-Ai/ai-video-studio",
+    "defaultPrompt": [
+      "用 $ai-video-production-supervisor 帮我把这个主题做成一条完整口播视频。",
+      "用 $batch-cover-studio 为这条成片生成 6 张抖音封面。",
+      "用 $deying-ai 制作一条得应风格的 9:16 口播视频。"
+    ],
+    "brandColor": "#D7FF4F",
+    "composerIcon": "./assets/icon.jpg",
+    "logo": "./assets/icon.jpg"
+  }
+}

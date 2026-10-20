@@ -1,0 +1,41 @@
+{
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "durationFrames": 1122,
+  "storyboard": "./storyboard.example.json",
+  "background": "#05080b",
+  "panel": "#0a1014",
+  "gridColor": "#36a57c",
+  "gridOpacity": 0.1,
+  "gridSize": 34,
+  "fontFamily": "STHeiti, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Arial, sans-serif",
+  "topBar": {
+    "title": "跨境电商",
+    "tag": "AI / SELLER NOTES"
+  },
+  "avatar": {
+    "enabled": true,
+    "source": "/absolute/path/assets/speaker-avatar.mp4",
+    "overlay": {
+      "x": 825,
+      "y": 161,
+      "size": 158,
+      "ringCx": 904,
+      "ringCy": 240,
+      "ringRadius": 82,
+      "label": "HOST"
+    }
+  },
+  "audio": "/absolute/path/assets/speaker.m4a",
+  "output": "/absolute/path/outputs/final-9x16.mp4",
+  "preview": "/absolute/path/outputs/final-9x16-preview.jpg",
+  "previewAtSeconds": 20,
+  "palette": {
+    "green": "#69f0b2",
+    "orange": "#ff7a45",
+    "blue": "#63a9ff",
+    "yellow": "#f3cc62",
+    "red": "#ff5e6c"
+  }
+}

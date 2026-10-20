@@ -1,0 +1,42 @@
+{
+  "projectName": "示例口播视频",
+  "creator": {
+    "name": "得应",
+    "positioning": "分享 AI 工具、效率方法与创作幕后",
+    "voice": "直接、清楚、基于真实实践"
+  },
+  "audience": {
+    "primary": "希望用 AI 提升效率的普通创作者",
+    "knowledgeLevel": "入门到进阶",
+    "painPoints": [
+      "工具太多，不知道先学什么",
+      "看懂了但不会用",
+      "重复工作占用大量时间"
+    ]
+  },
+  "platform": {
+    "name": "抖音",
+    "orientation": "9:16",
+    "targetDurationSeconds": 60
+  },
+  "goal": {
+    "primary": "让观众学会一个可立即执行的 AI 工作流",
+    "successMetric": "收藏和评论",
+    "callToAction": "关注得应，持续查看 AI 实践"
+  },
+  "sourceMedia": {
+    "video": "/absolute/path/to/raw-footage.mov",
+    "script": "",
+    "supplementaryAssets": []
+  },
+  "constraints": {
+    "brand": "深色背景、绿色网格、圆形人物窗口",
+    "claims": "只使用可验证的事实",
+    "forbidden": [
+      "虚构数据",
+      "未经授权的声音克隆",
+      "自动发布"
+    ]
+  },
+  "assumptions": []
+}
